@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#808080</color>
+    <color name="green">#DCFBDF</color>
+    <color name="greentheme">#ff008577</color>
+
+    <!-- Extended Color Palette -->
+    <!-- Primary Colors -->
+    <color name="primary_light">#BBDEFB</color> <!-- Light Blue -->
+    <color name="primary_dark">#1976D2</color> <!-- Dark Blue -->
+    <color name="primary_accent">#03A9F4</color> <!-- Cyan -->
+
+    <!-- Secondary Colors -->
+    <color name="secondary_light">#FFF9C4</color> <!-- Light Yellow -->
+    <color name="secondary_dark">#FBC02D</color> <!-- Dark Yellow -->
+    <color name="secondary_accent">#FFEB3B</color> <!-- Bright Yellow -->
+
+    <!-- Success & Error Colors -->
+    <color name="success">#4CAF50</color> <!-- Green Success -->
+    <color name="error">#F44336</color> <!-- Red Error -->
+
+    <!-- Neutral Shades -->
+    <color name="light_gray">#D3D3D3</color>
+    <color name="dark_gray">#404040</color>
+    <color name="background">#F5F5F5</color> <!-- Light Background -->
+
+    <!-- Custom Themed Colors -->
+    <color name="purple">#9C27B0</color> <!-- Purple -->
+    <color name="orange">#FF9800</color> <!-- Orange -->
+    <color name="teal">#009688</color> <!-- Teal -->
+    <color name="blue_gray">#607D8B</color> <!-- Blue Gray -->
+
+    <!-- Gradient Colors (can be used in gradients) -->
+    <color name="gradient_start">#FF5F6D</color> <!-- Red-Pink Gradient Start -->
+    <color name="gradient_end">#FFC371</color> <!-- Orange Gradient End -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color> <!-- Dark Text -->
+    <color name="text_secondary">#757575</color> <!-- Light Text -->
+    <color name="text_hint">#BDBDBD</color> <!-- Hint Text -->
+
+    <!-- Button Colors -->
+    <color name="button_primary">#2196F3</color> <!-- Blue Button -->
+    <color name="button_secondary">#FF5722</color> <!-- Orange Button -->
+
+    <!-- Miscellaneous Colors -->
+    <color name="info">#2196F3</color> <!-- Info Color Blue -->
+    <color name="warning">#FFC107</color> <!-- Warning Amber -->
+    <color name="light_red">#FFCDD2</color> <!-- Light Red -->
+
+</resources>

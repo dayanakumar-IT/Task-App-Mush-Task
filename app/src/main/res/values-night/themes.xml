@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProductivityApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize button style instead of removing it -->
+        <item name="android:buttonStyle">@style/CustomButtonStyle</item>
+    </style>
+
+    <!-- Define your custom button style -->
+    <style name="CustomButtonStyle" parent="Widget.AppCompat.Button">
+        <!-- Customize your button attributes here -->
+        <item name="android:background">@drawable/ripple_effect</item> <!-- Add custom background -->
+        <!-- Other customizations -->
+    </style>
+
+</resources>

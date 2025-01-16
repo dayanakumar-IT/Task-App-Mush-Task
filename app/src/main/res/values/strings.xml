@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Mush Task</string>
+    <string name="getStarted">Let\'s Begin!</string>
+    <string name="termandcondition">Terms of Use and Privacy Policy</string>
+    <string name="agreeterms">By using this application, you agree to it\'s terms of use</string>
+    <string name="add">Add</string>
+    <string name="welcome">Welcome to Mush Task!</string>
+    <string name="onboard1welcome"> Just like mushrooms flourish in the right environment, your tasks will thrive here!</string>
+    <string name="Continue">Continue  🌱</string>
+    <string name="onb2">Turn laziness into momentum</string>
+    <string name="noted">Noted!</string>
+    <string name="ok">Ok!</string>
+    <string name="questiononb3">Which type of mushroom are you feeling like today?</string>
+    <string name="droopy">Droopy Mushroom</string>
+    <string name="happy">Happy Mushroom</string>
+    <string name="nameinputw1">Great choice, you\'re in the perfect spot to grow! 🌱</string>
+    <string name="nameinputw2">Let\'s start by getting to know you</string>
+    <string name="nameinputw3">Enter your name below and let\'s get growing!</string>
+    <string name="hello">Hello</string>
+    <string name="create">Create 🍄</string>
+    <string name="delete">Delete 🍄</string>
+    <string name="display">Show 🍄</string>
+    <string name="newtask">New Task</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority Level 🎯: </string>
+    <string name="reminder">Reminder ⏰: </string>
+
+    <string-array name="priority_levels">
+        <item>Low  🟢 </item>
+        <item>Medium  🟡 </item>
+        <item>High  🔴 </item>
+    </string-array>
+</resources>
+
